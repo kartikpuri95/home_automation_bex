@@ -1,4 +1,4 @@
-# Quasar App (history_dashboard)
+# Quasar App (home_automation_bex)
 
 A Quasar Framework app
 
@@ -20,3 +20,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+### Screenshot(Still in development)
+![Block of data](./screenshot/home_automation_bex.png)
