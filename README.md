@@ -13,7 +13,7 @@ Recently quasar has released this amazing browser extension update and opened up
 
 I am big fan of material UI, I have used quasar to build few complex application which have utilized elasticsearch and python. BEX update has allow us to access chrome and it's API. It would be amazing if you could access your devices and appliances using tab in your browser imagine controlling your AC, TV etc just a tab away.
 
-How about getting an various insights in the form of charts and lines, with quasar framework you can connect various charting library at breeze
+How about getting  various insights in the form of charts and lines, with quasar framework you can connect various charting library at breeze
 
 ## Install the dependencies
 ```bash
